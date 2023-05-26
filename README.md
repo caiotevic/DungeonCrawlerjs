@@ -8,5 +8,5 @@ Objetivo:
 - Colete as chaves para chegar a ultima fase e escapar da masmorra dos sonhos junto de Ramona Flowers;
 
 Grupo:
-- Caio Victorino, Vitor Araujo, Sofia Larcher;
+- Caio Victorino, Victor Araujo, Sofia Larcher;
 
