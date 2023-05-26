@@ -167,7 +167,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
         else{
            
-            alert("voce gastou todas as suas chances");
+            alert("voce perdeu uma vida");
             player.y=2;
             player.x=2;
             vidas--;
